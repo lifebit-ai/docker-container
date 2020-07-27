@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - papermill=2.0.0
+  - r-base
   - jupytext=1.4.1
   - nbdime=2.0.0
   - watermark=2.0.2
